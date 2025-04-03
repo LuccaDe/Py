@@ -1,3 +1,6 @@
+# Exercício 4
+# Realiza operações com o nome do usuário
+
 nome = input('Digite seu nome: ')
 idade = input('Digite sua idade: ')
 print(15 * '-')

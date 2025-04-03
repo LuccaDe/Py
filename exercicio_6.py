@@ -1,3 +1,6 @@
+# Exercício 6
+# Saúda o usuário de acordo com a hora do dia
+
 input_hora = input('Digite a hora: ')
 
 try:

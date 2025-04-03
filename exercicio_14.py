@@ -1,4 +1,9 @@
+# Exercício 14
+# Analisador de CPFs
+# Sugestão: Transformar em um Gerador de CPFs
+
 from sys import exit
+
 cpf = input('Digite seu CPF: ').strip()
 tamanho_cpf = len(cpf)
 

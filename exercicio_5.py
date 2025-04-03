@@ -1,3 +1,6 @@
+# Exercício 5
+# Retorna para o usuário se o número é par ou ímpar
+
 input_numero = input('Digite um número inteiro: ')
 
 try:

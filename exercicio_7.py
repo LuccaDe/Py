@@ -1,3 +1,6 @@
+# Exercício 7
+# Analisa o nome do usuário e retorna um comentário de acordo com o tamanho
+
 nome = input('Digite seu nome: ')
 tamanho = len(nome)
 

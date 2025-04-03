@@ -1,4 +1,8 @@
+# Exercício 13
+# Lista de Compras
+
 from os import system
+
 lista = ['teste 1', 'teste 2']
 lista_enumerada = []
 

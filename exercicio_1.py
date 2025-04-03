@@ -1,3 +1,6 @@
+# Exercício 1
+# Exibe as informações do usuário na tela
+
 nome = 'Gianluca'
 sobrenome = 'Silva Chagas'
 idade = 24

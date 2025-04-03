@@ -1,3 +1,7 @@
+# Exercício 10
+# Analisa qual é a letra que mais apareceu na frase
+# Sugestão: Solicitar a frase para o usuário
+
 frase = 'O Python é uma linguagem de programação ' \
         'multiparadigma. ' \
         'Python foi criado por Guido van Rossum'

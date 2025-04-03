@@ -1,3 +1,7 @@
+# Exercício 17
+# Multiplicador com tratamento de erros e Closure
+# Sugestão: Solicitar o multiplicador para o usuário escolher
+
 from os import system
 
 def operacoes(numero):

@@ -1,3 +1,6 @@
+# Exercício 11
+# Jogo 'Palavra Secreta'
+
 import os
 
 palavra_secreta = input('Escolha uma palavra secreta: ')

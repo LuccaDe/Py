@@ -1,3 +1,6 @@
+# Exercício 15
+# Multiplicador
+
 def multiplier(*args):
     multi = 1
 

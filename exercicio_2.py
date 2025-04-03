@@ -1,3 +1,6 @@
+# Exercício 2
+# Exibe as informações do usuário na tela e calcula seu IMC
+
 nome = 'Gianluca Silva Chagas'
 altura = 1.71
 peso = 69

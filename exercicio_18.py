@@ -1,3 +1,7 @@
+# Exercício 18
+# Quiz
+# Sugestão: Adicionar perguntas dinâmicamente para personalizar o Quiz
+
 perguntas = [
     {
         'Pergunta': 'Quanto é 2 + 2?',
